@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 29 Dec 2023 22:05:57 at https://contactus.devpub-solution.com/ https://contactus.devpub-solution.com/ https://contactus.devpub-solution.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://contactus.devpub-solution.com/ https://contactus.devpub-solution.com/ https://contactus.devpub-solution.com/ -%L https://contactus.devpub-solution.com/ -O1 "C:\My Web Sites\card nfc1" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:05:57	Error: 	Could not include URL list: https://contactus.devpub-solution.com/
+22:06:03	Error: 	"Not Found" (404) at link https://contactus.devpub-solution.com/_nuxt/51496fa.js (from https://contactus.devpub-solution.com/)
+22:06:03	Error: 	"Not Found" (404) at link https://contactus.devpub-solution.com/_nuxt/2e8887a.js (from https://contactus.devpub-solution.com/)
+22:06:03	Error: 	"Not Found" (404) at link https://contactus.devpub-solution.com/_nuxt/a3d7088.js (from https://contactus.devpub-solution.com/)
+22:06:03	Error: 	"Not Found" (404) at link https://contactus.devpub-solution.com/_nuxt/7b3729b.js (from https://contactus.devpub-solution.com/)
+22:06:03	Error: 	"Not Found" (404) at link https://contactus.devpub-solution.com/_nuxt/9770d41.js (from https://contactus.devpub-solution.com/)
+22:06:05	Error: 	"Not Found" (404) at link https://contactus.devpub-solution.com/admin/favicon.png (from https://contactus.devpub-solution.com/admin/)
+22:06:05	Error: 	"Not Found" (404) at link https://contactus.devpub-solution.com/admin/_nuxt/51496fa.js (from https://contactus.devpub-solution.com/admin/)
+22:06:05	Error: 	"Not Found" (404) at link https://contactus.devpub-solution.com/admin/_nuxt/2e8887a.js (from https://contactus.devpub-solution.com/admin/)
+22:06:05	Error: 	"Not Found" (404) at link https://contactus.devpub-solution.com/admin/_nuxt/a3d7088.js (from https://contactus.devpub-solution.com/admin/)
+22:06:05	Error: 	"Not Found" (404) at link https://contactus.devpub-solution.com/admin/_nuxt/7b3729b.js (from https://contactus.devpub-solution.com/admin/)
+22:06:05	Error: 	"Not Found" (404) at link https://contactus.devpub-solution.com/admin/_nuxt/9770d41.js (from https://contactus.devpub-solution.com/admin/)
+22:06:05	Error: 	"Not Found" (404) at link https://contactus.devpub-solution.com/admin/_nuxt/img/flags.9c96e0ed.6eff2c9.png (from https://contactus.devpub-solution.com/admin/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 seconds : 29 links scanned, 16 files written (1285362 bytes overall) [867207 bytes received at 108400 bytes/sec], 528254 bytes transferred using HTTP compression in 2 files, ratio 15%, 15.0 requests per connection
+(13 errors, 0 warnings, 0 messages)
